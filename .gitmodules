@@ -1,0 +1,3 @@
+[submodule "User/sublime-webbuild"]
+	path = User/sublime-webbuild
+	url = git@github.com:technocake/sublime-webbuild.git
