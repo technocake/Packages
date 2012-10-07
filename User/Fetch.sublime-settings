@@ -1,0 +1,13 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"jquery.filedrop": "https://raw.github.com/weixiyen/jquery-filedrop/fb4e9ee7a7b7d5b34be04c8fa370315d4ece9902/jquery.filedrop.js",
+		"prompt": "http://svn.technocake.net/repos/dev/python/snutter/prompt.py",
+		"stack.h": "http://svn.technocake.net/repos/dev/cpp/datastrukturer%20toe029/oblig2/postfix-calculator/Stack.h"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
